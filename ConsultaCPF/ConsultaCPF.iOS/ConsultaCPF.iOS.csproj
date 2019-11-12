@@ -157,4 +157,7 @@
       <Name>ConsultaCPF</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\correios.jpg" />
+  </ItemGroup>
 </Project>

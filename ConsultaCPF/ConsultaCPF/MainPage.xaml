@@ -4,11 +4,11 @@
              xmlns:local="clr-namespace:ConsultaCPF"
              x:Class="ConsultaCPF.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+    <StackLayout BackgroundColor="#ffbf00" Padding="30" Spacing="30">
+        <Image Source="correios.jpg"/>
+        <Entry Placeholder="Digite o cep" PlaceholderColor="#ffbf00" BackgroundColor="Yellow" x:Name="CEP"/>
+        <Button Text="Buscar CEP" TextColor="#ffffff" BackgroundColor="#00416b" x:Name="BTNBUSCAR"/>
+        <Label HorizontalOptions="Center" VerticalOptions="CenterAndExpand" x:Name="RETORNO"/>
     </StackLayout>
 
 </ContentPage>

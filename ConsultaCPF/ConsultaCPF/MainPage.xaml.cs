@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Xamarin.Forms;
+using ConsultaCPF.Servico;
+using ConsultaCPF.Servico.Modelo;
+
 
 namespace ConsultaCPF
 {
@@ -12,6 +11,17 @@ namespace ConsultaCPF
     public MainPage()
     {
       InitializeComponent();
+
+      BTNBUSCAR.Clicked += Buscar;
+
+    }
+
+    private void Buscar(object sender, EventArgs args)
+    {
+      var cepDigitado = CEP.Text;
+      var end = ViaCEPServico.BuscarEndercoViaCEP(cepDigitado);
+
+      RETORNO.Text = $"Endereço: {end.Logradouro} de {end.Bairro} {end.Localidade} {end.Uf}";
     }
   }
 }

@@ -6,3 +6,7 @@ C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug
 C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug\netstandard2.0\ConsultaCPF.csproj.CoreCompileInputs.cache
 C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug\netstandard2.0\ConsultaCPF.AssemblyInfoInputs.cache
 C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug\netstandard2.0\ConsultaCPF.AssemblyInfo.cs
+C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\bin\Debug\netstandard2.0\ConsultaCPF.pdb
+C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug\netstandard2.0\ConsultaCPF.dll
+C:\Users\Adilson\Git\EstudoXamarin\ConsultaCPF\ConsultaCPF\ConsultaCPF\obj\Debug\netstandard2.0\ConsultaCPF.pdb
